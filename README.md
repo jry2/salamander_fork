@@ -79,3 +79,4 @@ All the source code uses UTF-8-BOM encoding and is formatted with ```clang-forma
 
 Open Salamander is open source software licensed [GPLv2](doc/license_gpl.txt) and later.
 Individual [files and libraries](doc/third_party.txt) have a different, but compatible license.
+
